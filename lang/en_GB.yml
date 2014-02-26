@@ -1,0 +1,17 @@
+en_GB:
+  NewsHolder:
+    DESCRIPTION: 'Page for holding news entries'
+    PLURALNAME: 'News Holders'
+    SINGULARNAME: 'News Holder'
+  NewsHolder.ss:
+    ALL: All
+    READ_MORE: 'Read more'
+    NEXT: Next
+    PREV: Previous
+  NewsPage:
+    DESCRIPTION: 'Generic content page'
+    PLURALNAME: 'News Pags'
+    SINGULARNAME: 'News Page'
+  SiteTree:
+    PLURALNAME: Pages
+    SINGULARNAME: Page

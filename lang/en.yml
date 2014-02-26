@@ -1,0 +1,14 @@
+en:
+  NewsHolder:
+    DESCRIPTION: 'Page for holding news entries'
+    PLURALNAME: 'News Holders'
+    SINGULARNAME: 'News Holder'
+  NewsHolder.ss:
+    ALL: Tutte
+  NewsPage:
+    DESCRIPTION: 'Generic content page'
+    PLURALNAME: 'News Pags'
+    SINGULARNAME: 'News Page'
+  SiteTree:
+    PLURALNAME: Pages
+    SINGULARNAME: Page
